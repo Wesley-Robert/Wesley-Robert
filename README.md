@@ -1,9 +1,9 @@
 ### Olá eu sou o Wesley Robert 👋
 
 
-- 🔭 Hoje trabalho com Administração
-- 🌱 Estudo para ser um front-end
-- 😄 Pronouns: ele/dele
+- 🔭 Hoje trabalho como programador junior
+- 🌱 Estudo para evoluir cada vez mais
+- 😄 Rei do Kart
 
 <div>
   <a href="https://github.com/Wesley-Robert/Wesley-Robert">
