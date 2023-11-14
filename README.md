@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho como programador junior
 - 🌱 Estudo para evoluir cada vez mais
-- 😄 Rei do Kart
+- 😄 Rei do paintball
 
 <div>
   <a href="https://github.com/Wesley-Robert/Wesley-Robert">
